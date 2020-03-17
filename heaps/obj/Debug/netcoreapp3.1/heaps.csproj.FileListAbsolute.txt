@@ -1,0 +1,11 @@
+/Users/derekmoring/Documents/Code/test/heaps/bin/Debug/netcoreapp3.1/heaps
+/Users/derekmoring/Documents/Code/test/heaps/bin/Debug/netcoreapp3.1/heaps.deps.json
+/Users/derekmoring/Documents/Code/test/heaps/bin/Debug/netcoreapp3.1/heaps.runtimeconfig.json
+/Users/derekmoring/Documents/Code/test/heaps/bin/Debug/netcoreapp3.1/heaps.runtimeconfig.dev.json
+/Users/derekmoring/Documents/Code/test/heaps/bin/Debug/netcoreapp3.1/heaps.dll
+/Users/derekmoring/Documents/Code/test/heaps/bin/Debug/netcoreapp3.1/heaps.pdb
+/Users/derekmoring/Documents/Code/test/heaps/obj/Debug/netcoreapp3.1/heaps.csprojAssemblyReference.cache
+/Users/derekmoring/Documents/Code/test/heaps/obj/Debug/netcoreapp3.1/heaps.AssemblyInfoInputs.cache
+/Users/derekmoring/Documents/Code/test/heaps/obj/Debug/netcoreapp3.1/heaps.AssemblyInfo.cs
+/Users/derekmoring/Documents/Code/test/heaps/obj/Debug/netcoreapp3.1/heaps.dll
+/Users/derekmoring/Documents/Code/test/heaps/obj/Debug/netcoreapp3.1/heaps.pdb

@@ -1,0 +1,11 @@
+/Users/derekmoring/Documents/Code/test/linkedlist/obj/Debug/netcoreapp3.1/linkedlist.csprojAssemblyReference.cache
+/Users/derekmoring/Documents/Code/test/linkedlist/obj/Debug/netcoreapp3.1/linkedlist.AssemblyInfoInputs.cache
+/Users/derekmoring/Documents/Code/test/linkedlist/obj/Debug/netcoreapp3.1/linkedlist.AssemblyInfo.cs
+/Users/derekmoring/Documents/Code/test/linkedlist/bin/Debug/netcoreapp3.1/linkedlist
+/Users/derekmoring/Documents/Code/test/linkedlist/bin/Debug/netcoreapp3.1/linkedlist.deps.json
+/Users/derekmoring/Documents/Code/test/linkedlist/bin/Debug/netcoreapp3.1/linkedlist.runtimeconfig.json
+/Users/derekmoring/Documents/Code/test/linkedlist/bin/Debug/netcoreapp3.1/linkedlist.runtimeconfig.dev.json
+/Users/derekmoring/Documents/Code/test/linkedlist/bin/Debug/netcoreapp3.1/linkedlist.dll
+/Users/derekmoring/Documents/Code/test/linkedlist/bin/Debug/netcoreapp3.1/linkedlist.pdb
+/Users/derekmoring/Documents/Code/test/linkedlist/obj/Debug/netcoreapp3.1/linkedlist.dll
+/Users/derekmoring/Documents/Code/test/linkedlist/obj/Debug/netcoreapp3.1/linkedlist.pdb
